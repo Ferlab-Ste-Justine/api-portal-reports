@@ -46,7 +46,7 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {
-    "@arranger/middleware": "2.16.1",
+    "@arranger/middleware": "2.19.4",
     "@elastic/elasticsearch": "^7.4.0",
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
