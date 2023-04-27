@@ -49,7 +49,7 @@
     "@arranger/middleware": "2.16.1",
     "@elastic/elasticsearch": "^7.4.0",
     "cors": "^2.8.5",
-    "dotenv": "^8.1.0",
+    "dotenv": "^8.6.0",
     "excel4node": "^1.7.2",
     "express": "^4.17.1",
     "keycloak-connect": "^14.0.0",
